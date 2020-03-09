@@ -24,8 +24,18 @@ Nesse artigo serão relacionadas diversas dicas para trabalhar de forma mais pro
 
 ### Plugins
 
-**brackets-colorize-2** permite que as chaves tenham cores diferentes facilitando identificar blocos de código aninhados.
+**brackets-colorize-2** 
 
-**vscode-icons** expande a quantidade de icones para tipos de arquivos no vsCode.
+Permite que as chaves tenham cores diferentes facilitando identificar blocos de código aninhados.
 
-**gitlens** extende as funcionalides para gerenciamento de repositórios git no projeto.
+**vscode-icons** 
+
+Expande a quantidade de icones para tipos de arquivos no vsCode.
+
+**gitlens** 
+
+Extende as funcionalides para gerenciamento de repositórios git no projeto.
+
+**eslint** 
+
+Permite que você mantenha uma padronização na escrita do código bem como também encontrar erros de escrita mais facilmente.
