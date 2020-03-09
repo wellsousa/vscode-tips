@@ -21,3 +21,11 @@ Nesse artigo serão relacionadas diversas dicas para trabalhar de forma mais pro
 **CTRL + ALT + SETA PARA BAIXO** permite que você escreva ao mesmo tempo em multiplas linhas. Se você segurar o **ALT** e clicar em outras linhas poderá adicioná-las a esse conjunto de linhas editáveis.
 
 **CTRL + SHIFT + O** abre uma lista de todas as funções e objetos do arquivo. Ao selecionar um item na lista o cursor é direcionado para a linha onde o código está. Essa função também pode ser acessada com **CTRL + P + @**.
+
+### Plugins
+
+**brackets-colorize-2** permite que as chaves tenham cores diferentes facilitando identificar blocos de código aninhados.
+
+**vscode-icons** expande a quantidade de icones para tipos de arquivos no vsCode.
+
+**gitlens** extende as funcionalides para gerenciamento de repositórios git no projeto.
